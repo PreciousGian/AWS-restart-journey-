@@ -23,4 +23,6 @@ Enhanced Security: CDNs can help protect websites from malicious attacks, such a
 
 Scalability: Allows websites and applications to handle large volumes of traffic and large content files, such as videos, without overwhelming the origin server.
 
+read more here https://docs.aws.amazon.com/whitepapers/latest/aws-overview/networking-services.html
+
 In summary, networking provides the pathway, and CDNs serve as a sophisticated network of delivery points to ensure that the right content gets to the user as quickly and reliably as possible.
