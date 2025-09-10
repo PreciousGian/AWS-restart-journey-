@@ -5,4 +5,5 @@ Compute services are the backbone that power most web-based applications. They a
 You Will Learn
 Learn to distinguish between the three most important categories of AWS compute options: Amazon EC2, containers, and severless. Understand how to choose the best compute for a specific workload.
 
-LABS ON COMPUTE SERVICES
+read more https://docs.aws.amazon.com/whitepapers/latest/big-data-analytics-options/amazon-compute-services.html
+
